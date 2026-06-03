@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses business sales data to identify revenue trends, top-selling products, category performance, and regional sales performance. The goal is to provide business insights and recommendations to improve decision-making and growth.
+This project analyses business sales data to identify revenue trends, top-selling products, category performance, and regional sales performance. The goal is to provide business insights and recommendations to improve decision-making and growth. This project simulates real-world retail sales analysis for business decision-making.
 
 ## Objective
 
